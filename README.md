@@ -1,1 +1,1 @@
-"# Assigment-back_end" 
+This is the backend of a contact management system webpage program that implements the functions of adding users, modifying user information, and deleting users. This program is a simple JavaWeb application built on frameworks such as SpringBoot, Maven, and lombok.
